@@ -15,5 +15,8 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-
+  contacts.each |person, contacts_details_hash|
+  
+  if key.name == :favorite_ice_cream_flavors
+    
 end
